@@ -1,4 +1,4 @@
-### Bus Route System 
+# Bus Route System 
 
 This assignment is about to use a hybrid data structure consisted of singly linked lists and
 doubly linked lists. It will be employed these structures to implement a bus line/stop
