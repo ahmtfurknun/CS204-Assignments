@@ -1,0 +1,11 @@
+14Y: YavuzTurk Kent TepeUstu Kadikoy Tantavi Namazgah
+133U: Sabanci Nakliyeciler Viaport Pendik Kartal
+14Z: Ferah Altunizade Kisikli TepeUstu Tantavi YavuzTurk 
+132B: Akfirat Kimyaciler Birkent Viaport Pendik
+14C: Uskudar BurhanFelek Selimiye Kadikoy
+15K: Emniyet Beyazit Vergi_Dairesi Sabiha_Gokcen Eminonu
+166A: Seyhli Birkent Cam_Evleri Benzinlik Nakliyeciler
+12A: AyrilikCesmesi Karacaahmet ZeynepKamil BurhanFelek Kadikoy
+500T: Guzelyali Pendik_Koprusu Kartal_Koprusu Bostanci_Koprusu
+14R: Kucuksu Rasathane Selvi Talimhane BurhanFelek Kadikoy Taksim
+
