@@ -1,4 +1,4 @@
-### Add Drop Courses
+# Add Drop Courses
 
 This assignment is about implement a program that stores the courses taken by students
 organized (sorted in ascending order) according to the name of the courses during the add/drop period. This
