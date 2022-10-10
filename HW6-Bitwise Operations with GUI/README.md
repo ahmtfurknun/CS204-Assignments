@@ -1,4 +1,4 @@
-### Bitwise Operations with GUI
+# Bitwise Operations with GUI
 
 This assignment asked to implement a simple bit calculator with a Graphical User Interface
 (GUI). The calculator accepts as input two unsigned integers and based on the selected operation - bitwise
