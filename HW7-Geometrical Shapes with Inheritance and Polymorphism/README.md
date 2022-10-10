@@ -1,4 +1,4 @@
-### Geometrical Shapes with Inheritance and Polymorphism
+# Geometrical Shapes with Inheritance and Polymorphism
 
 This assignment aims to make you familiar with inheritance (multi-inheritance) and
 polymorphism issues. You will deal with multi-inheritance through implementing, from scratch,
