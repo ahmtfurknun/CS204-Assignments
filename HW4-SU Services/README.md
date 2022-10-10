@@ -1,4 +1,4 @@
-### SU Services
+# SU Services
 
 This assignment’s aim is to make you familiar with the logic behind queues and stacks (and a bit of
 simply linked lists of linked list, again) as well as recursions by practically using them in a real-case
