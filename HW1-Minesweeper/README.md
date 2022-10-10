@@ -1,4 +1,4 @@
-### Minesweeper
+# Minesweeper
 
 This assignment is about developing a simplified version of the Minesweeper game. Minesweeper is a single-player 
 puzzle video game. The objective of the game is to clear a rectangular board containing hidden "mines" or 
